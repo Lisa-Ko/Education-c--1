@@ -1,0 +1,15 @@
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\bin\Debug\net7.0\Example001.exe
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\bin\Debug\net7.0\Example001.deps.json
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\bin\Debug\net7.0\Example001.runtimeconfig.json
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\bin\Debug\net7.0\Example001.dll
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\bin\Debug\net7.0\Example001.pdb
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\obj\Debug\net7.0\Example001.csproj.AssemblyReference.cache
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\obj\Debug\net7.0\Example001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\obj\Debug\net7.0\Example001.AssemblyInfoInputs.cache
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\obj\Debug\net7.0\Example001.AssemblyInfo.cs
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\obj\Debug\net7.0\Example001.csproj.CoreCompileInputs.cache
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\obj\Debug\net7.0\Example001.dll
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\obj\Debug\net7.0\refint\Example001.dll
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\obj\Debug\net7.0\Example001.pdb
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\obj\Debug\net7.0\Example001.genruntimeconfig.cache
+C:\Users\drkop\OneDrive\Документы\обучение прогр\Examples\Example001\obj\Debug\net7.0\ref\Example001.dll
